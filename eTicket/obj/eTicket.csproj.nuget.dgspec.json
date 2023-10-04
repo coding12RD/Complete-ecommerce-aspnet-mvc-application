@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/Complete-ecommerce-aspnet-mvc-application/eTickets/eTickets.csproj": {}
+    "/home/runner/Complete-ecommerce-aspnet-mvc-application/eTicket/eTicket.csproj": {}
   },
   "projects": {
-    "/home/runner/Complete-ecommerce-aspnet-mvc-application/eTickets/eTickets.csproj": {
+    "/home/runner/Complete-ecommerce-aspnet-mvc-application/eTicket/eTicket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/Complete-ecommerce-aspnet-mvc-application/eTickets/eTickets.csproj",
-        "projectName": "eTickets",
-        "projectPath": "/home/runner/Complete-ecommerce-aspnet-mvc-application/eTickets/eTickets.csproj",
+        "projectUniqueName": "/home/runner/Complete-ecommerce-aspnet-mvc-application/eTicket/eTicket.csproj",
+        "projectName": "eTicket",
+        "projectPath": "/home/runner/Complete-ecommerce-aspnet-mvc-application/eTicket/eTicket.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/Complete-ecommerce-aspnet-mvc-application/eTickets/obj/",
+        "outputPath": "/home/runner/Complete-ecommerce-aspnet-mvc-application/eTicket/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
